@@ -24,6 +24,10 @@ npm install or yarn
 
 npm run dev or yarn dev
 ```
+## Guide to Using Our App
+
+https://github.com/Amazing-ChatApp/How-To-Use-The-App
+
 
 ## Our Team ✨
 - [Dhruvi Mehta](https://github.com/dhruviii297)
