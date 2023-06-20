@@ -11,7 +11,7 @@ This is a **real-time** chat application with features like _chat rooms_, _priva
 
 ## ❖ Running Our App
 ```<bash>
-git clone https://github.com/Amazing-Chatapp/Chatapp.git 
+git clone https://github.com/Amazing-Chatapp/ChatApp.git 
 
 cd ChatApp 
 
