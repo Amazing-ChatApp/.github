@@ -20,9 +20,9 @@ git clone https://github.com/Amazing-Chatapp/ChatApp.git
 
 cd ChatApp 
 
-npm install 
+npm install or yarn
 
-npm run dev 
+npm run dev or yarn dev
 ```
 
 ## Our Team ✨
